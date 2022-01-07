@@ -1,5 +1,5 @@
 import React from 'react';
-import "./directory-styles.scss"
+import "./directory.styles.scss"
 import MenuItem from "../menu-item/menu-item.component"
 //use i.ibb.co to upload your own jpgs
 
